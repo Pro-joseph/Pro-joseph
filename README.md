@@ -15,10 +15,10 @@ const dev = {
   name     : "Youssef Jdira",
   alias    : "@Pro-joseph",
   role     : "Junior Backend Developer",
-  stack    : ["Laravel", "PHP", "MySQL", "Blade", "TypeScript"],
+  stack    : ["Laravel", "PHP", "MySQL", "Blade"],
   location : "Agadir, Morocco 🌊",
   passion  : "shipping real apps",
-  learning : ["REST APIs", "Clean Architecture", "Vue.js"],
+  learning : ["REST APIs", "Clean Architecture",],
 };
 ```
 
