@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a junior backend developer in training, specializing in **Laravel** and PHP MVC architecture.  
+I'm a junior backend developer in training, specializing in **Laravel**.  
 I love building real-world tools — from surf school management systems to AI prompt libraries.  
 Based in **Agadir, Morocco** 🌊 and always leveling up.
 
